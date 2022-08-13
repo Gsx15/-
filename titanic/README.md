@@ -1,4 +1,7 @@
 train.csv文件表示训练集
+
 test.csv文件表示验证集
+
 gender_submission.csv文件是官方给出的提交文件的格式
+
 submission.csv文件是经过多层感知机网络预测之后得到的结果
